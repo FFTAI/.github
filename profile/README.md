@@ -26,19 +26,21 @@ We welcome developers, researchers, and enthusiasts from around the world to joi
 - **Collaborate**: Contact us if you are interested in research collaborations or joint projects.
 - **Stay Updated**: Follow us on open platforms like GitHub, Gitee, and social media to stay updated on our latest projects and activities.
 
-[bilibili]: https://space.bilibili.com/478624
+<a href="https://space.bilibili.com/519804427">
+<img src="https://img.shields.io/badge/bilibili-Fourier Intelligence🛒-blue" alt="Fourier Intelligence">
+</a>
 
 ## Recommanded Repositories
 
-| Title                                                           | Description                                                                            |
-|-----------------------------------------------------------------|----------------------------------------------------------------------------------------|
+| Title                                                           | Description                                                                             |
+|-----------------------------------------------------------------|-----------------------------------------------------------------------------------------|
 | [Wiki-GRx-Pipeline](https://github.com/FFTAI/Wiki-GRx-Pipeline) | The repository shows how RL can be implemented on Fourier Intelligence GRx series robot | 
-| [Wiki-GRx-Models](https://github.com/FFTAI/Wiki-GRx-Models)     | The repository provides the GRx series robot models in URDF format                     | 
-| [Wiki-GRx-Gym](https://github.com/FFTAI/Wiki-GRx-Gym)           | The code for training walking policy for GRx in Isaac Gym                              |
-| [Wiki-GRx-Webots](https://github.com/FFTAI/Wiki-GRx-Webots)     | The code for verifying the walking policy in the Webots simulator                      | 
-| [Wiki-GRx-Gazebo](https://github.com/FFTAI/Wiki-GRx-Gazebo)     | The code for verifying the walking policy in the Gazebo simulator                      | 
-| [Wiki-GRx-Deploy](https://github.com/FFTAI/Wiki-GRx-Deploy)     | The code for deploying the walking policy on the real robot                            | 
-| [fftai.github.io](fftai.github.io)                              | The code for GRx robot high level control, including the User Guide.             |
+| [Wiki-GRx-Models](https://github.com/FFTAI/Wiki-GRx-Models)     | The repository provides the GRx series robot models in URDF format                      | 
+| [Wiki-GRx-Gym](https://github.com/FFTAI/Wiki-GRx-Gym)           | The code for training walking policy for GRx in Isaac Gym                               |
+| [Wiki-GRx-Webots](https://github.com/FFTAI/Wiki-GRx-Webots)     | The code for verifying the walking policy in the Webots simulator                       | 
+| [Wiki-GRx-Gazebo](https://github.com/FFTAI/Wiki-GRx-Gazebo)     | The code for verifying the walking policy in the Gazebo simulator                       | 
+| [Wiki-GRx-Deploy](https://github.com/FFTAI/Wiki-GRx-Deploy)     | The code for deploying the walking policy on the real robot                             | 
+| [fftai.github.io](fftai.github.io)                              | The code for GRx robot high level control, including the User Guide.                    |
 
 ---
 
