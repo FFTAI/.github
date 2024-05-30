@@ -12,7 +12,7 @@ After years of research and development, we have accumulated a wealth of experie
 We are committed to providing customers with high-quality, cost-effective, and easy-to-use robot products and solutions.
 And hope to work with partners to create a better future for our human society.
 
-## Open Source <img src="./open_source_logo.png" alt="Open Source" width="25">
+## Open Source ![](open_source_logo.png)
 
 At Fourier Intelligence, we believe in the power of collaboration and open innovation.
 We actively contribute to the open-source community and share projects that can help advance the field of robotics.
@@ -31,7 +31,6 @@ We welcome developers, researchers, and enthusiasts from around the world to joi
 </a>
 
 ## Repositories 📦
-
 
 | Title                                                           | Description                                                                             | License                                                                  |
 |-----------------------------------------------------------------|-----------------------------------------------------------------------------------------|--------------------------------------------------------------------------|
