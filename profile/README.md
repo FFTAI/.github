@@ -26,15 +26,6 @@ We welcome developers, researchers, and enthusiasts from around the world to joi
 - **Collaborate**: Contact us if you are interested in research collaborations or joint projects.
 - **Stay Updated**: Follow us on open platforms like GitHub, Gitee, and social media to stay updated on our latest projects and activities.
 
-## Contact Us
-
-For more information about our products, research, or if you have any other inquiries, please visit our [website](https://www.fftai.com) or reach out to us at:
-
-- **Email**: info@fftai.com
-- **Phone**: China: +86(0)21 5030 8716 | Singapore: +65 6911 6651
-
-Join us in our journey to accelerate the development of robotics and make a positive impact to the world!
-
 ---
 
 *Disclaimer: Fourier Intelligence is a trademark of Fourier Intelligence Co., Ltd. All rights reserved.*
