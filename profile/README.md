@@ -1,27 +1,27 @@
-
 # Fourier Intelligence
 
-Fourier Intelligence, established in 2015, is a universal robot platform enterprise based in Shanghai, 
-focusing on **full-stack robot core technology** and innovative robot products to revolutionize industries. 
+Fourier Intelligence, established in 2015, is a universal robot platform enterprise based in Shanghai,
+focusing on **full-stack robot core technology** and innovative robot products to revolutionize industries.
 
-At Fourier Intelligence, our initial focus has been on revolutionizing **rehabilitation** through advanced robotics and intelligent systems. 
-We are dedicated to making high-quality rehabilitation solutions both accessible and affordable, 
+At Fourier Intelligence, our initial focus has been on revolutionizing **rehabilitation** through advanced robotics and intelligent systems.
+We are dedicated to making high-quality rehabilitation solutions both accessible and affordable,
 aiming to drive advancements in healthcare and improve the quality of life for individuals in need.
 
-Now, Fourier Intelligence is expanding its business to **general robotics**. 
+Now, Fourier Intelligence is expanding its business to **general robotics**.
 After years of research and development, we have accumulated a wealth of experience in the field of robotics.
 We are committed to providing customers with high-quality, cost-effective, and easy-to-use robot products and solutions.
 And hope to work with partners to create a better future for our human society.
 
 ## Open Source Contributions
 
-At Fourier Intelligence, we believe in the power of collaboration and open innovation. 
-We actively contribute to the open-source community and share projects that can help advance the field of robotics. 
+At Fourier Intelligence, we believe in the power of collaboration and open innovation.
+We actively contribute to the open-source community and share projects that can help advance the field of robotics.
 Check out our public repositories for software, hardware designs, and research publications that we have made available to the community.
 
 ## Get Involved
 
 We welcome developers, researchers, and enthusiasts from around the world to join us in our mission. Here's how you can get involved:
+
 - **Explore our repositories**: Dive into our open-source projects and contribute by reporting issues, submitting PRs, or providing feedback.
 - **Collaborate**: Contact us if you are interested in research collaborations or joint projects.
 - **Stay Updated**: Follow us on open platforms like GitHub, Gitee, and social media to stay updated on our latest projects and activities.
