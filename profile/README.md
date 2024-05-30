@@ -26,6 +26,8 @@ We welcome developers, researchers, and enthusiasts from around the world to joi
 - **Collaborate**: Contact us if you are interested in research collaborations or joint projects.
 - **Stay Updated**: Follow us on open platforms like GitHub, Gitee, and social media to stay updated on our latest projects and activities.
 
+[bilibili]: https://space.bilibili.com/478624
+
 ## Recommanded Repositories
 
 | Title                                                           | Description                                                                            |
