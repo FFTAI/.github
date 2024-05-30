@@ -28,14 +28,14 @@ We welcome developers, researchers, and enthusiasts from around the world to joi
 
 ## Recommanded Repositories
 
-| Title                                                                 | Description                                                                               | Stars                                                                     | Forks                                                                     |
-|-----------------------------------------------------------------------|-------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|---------------------------------------------------------------------------|
-| [**GRx-Pipeline**](https://github.com/FFTAI/Wiki-GRx-Pipeline) | The repository shows how RL can be implemented on Fourier Intelligence GRx series robot   | ![Stars](https://img.shields.io/github/stars/FFTAI/wiki-grx-pipeline.svg) | ![Forks](https://img.shields.io/github/forks/FFTAI/wiki-grx-pipeline.svg) |
-| [**GRx-Models**](https://github.com/FFTAI/Wiki-GRx-Models)       | The repository provides the GRx series robot models in URDF format                        | ![Stars](https://img.shields.io/github/stars/FFTAI/wiki-grx-models.svg)   | ![Forks](https://img.shields.io/github/forks/FFTAI/wiki-grx-models.svg)   |
-| [**GRx-Gym**](https://github.com/FFTAI/Wiki-GRx-Gym)             | The repository provides the code for training walking policy for GRx in Isaac Gym         | ![Stars](https://img.shields.io/github/stars/FFTAI/wiki-grx-gym.svg)      | ![Forks](https://img.shields.io/github/forks/FFTAI/wiki-grx-gym.svg)      |
-| [**GRx-Webots**](https://github.com/FFTAI/Wiki-GRx-Webots)       | The repository provides the code for verifying the walking policy in the Webots simulator | ![Stars](https://img.shields.io/github/stars/FFTAI/wiki-grx-webots.svg)   | ![Forks](https://img.shields.io/github/forks/FFTAI/wiki-grx-webots.svg)   |
-| [**GRx-Gazebo**](https://github.com/FFTAI/Wiki-GRx-Gazebo)       | The repository provides the code for verifying the walking policy in the Gazebo simulator | ![Stars](https://img.shields.io/github/stars/FFTAI/wiki-grx-gazebo.svg)   | ![Forks](https://img.shields.io/github/forks/FFTAI/wiki-grx-gazebo.svg)   |
-| [**GRx-Deploy**](https://github.com/FFTAI/Wiki-GRx-Deploy)       | The repository provides the code for deploying the walking policy on the real robot       | ![Stars](https://img.shields.io/github/stars/FFTAI/wiki-grx-deploy.svg)   | ![Forks](https://img.shields.io/github/forks/FFTAI/wiki-grx-deploy.svg)   |
+| Title                                                                 | Description                                                                               |
+|-----------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
+| [**GRx-Pipeline**](https://github.com/FFTAI/Wiki-GRx-Pipeline) | The repository shows how RL can be implemented on Fourier Intelligence GRx series robot   | 
+| [**GRx-Models**](https://github.com/FFTAI/Wiki-GRx-Models)       | The repository provides the GRx series robot models in URDF format                        | 
+| [**GRx-Gym**](https://github.com/FFTAI/Wiki-GRx-Gym)             | The repository provides the code for training walking policy for GRx in Isaac Gym         |
+| [**GRx-Webots**](https://github.com/FFTAI/Wiki-GRx-Webots)       | The repository provides the code for verifying the walking policy in the Webots simulator | 
+| [**GRx-Gazebo**](https://github.com/FFTAI/Wiki-GRx-Gazebo)       | The repository provides the code for verifying the walking policy in the Gazebo simulator | 
+| [**GRx-Deploy**](https://github.com/FFTAI/Wiki-GRx-Deploy)       | The repository provides the code for deploying the walking policy on the real robot       | 
 
 ---
 
