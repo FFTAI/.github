@@ -4,9 +4,9 @@
 Fourier Intelligence, established in 2015, is a universal robot platform enterprise based in Shanghai, 
 focusing on **full-stack robot core technology** and innovative robot products to revolutionize industries. 
 
-We firstly strive to revolutionize rehabilitation through advanced robotics and intelligent systems. 
-Our goal in rehabilitation is to make cutting-edge, high-quality rehabilitation solutions accessible and affordable for people in need, 
-driving advancements in healthcare and enhancing quality of life.
+At Fourier Intelligence, our initial focus has been on revolutionizing rehabilitation through advanced robotics and intelligent systems. 
+We are dedicated to making high-quality rehabilitation solutions both accessible and affordable, 
+aiming to drive advancements in healthcare and improve the quality of life for individuals in need.
 
 Now, Fourier Intelligence is expanding its business to general robotics. 
 After years of research and development, we have accumulated a wealth of experience in the field of robotics.
