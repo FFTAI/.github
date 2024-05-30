@@ -26,8 +26,11 @@ We welcome developers, researchers, and enthusiasts from around the world to joi
 - **Collaborate**: Contact us if you are interested in research collaborations or joint projects.
 - **Stay Updated**: Follow us on open platforms like GitHub, Gitee, and social media to stay updated on our latest projects and activities.
 
+<a href="https://github.com/FFTAI">
+<img src="https://img.shields.io/badge/github-Fourier Intelligence-blue?logo=github" alt="Fourier Intelligence">
+</a>
 <a href="https://space.bilibili.com/519804427">
-<img src="https://img.shields.io/badge/bilibili-Fourier Intelligence🛒-blue" alt="Fourier Intelligence">
+<img src="https://img.shields.io/badge/bilibili-Fourier Intelligence-blue?logo=bilibili" alt="Fourier Intelligence">
 </a>
 
 ## Repositories 📦
