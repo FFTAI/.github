@@ -41,12 +41,17 @@ We welcome developers, researchers, and enthusiasts from around the world to joi
 <a href="https://sg.linkedin.com/company/fourier-intelligence-co.-ltd.">
 <img src="https://img.shields.io/badge/linkedin-Fourier Intelligence-blue?logo=linkedin" alt="Fourier Intelligence">
 </a>
-<a href="https://space.bilibili.com/519804427">
-<img src="https://img.shields.io/badge/bilibili-Fourier Intelligence-blue?logo=bilibili" alt="Fourier Intelligence">
-</a>
 <a href="https://www.youtube.com/channel/UCAa-HGV-4fLSYZdiuv5Pwcw/videos">
 <img src="https://img.shields.io/badge/youtube-Fourier Intelligence-red?logo=youtube" alt="Fourier Intelligence">
 </a>
+
+<a href="https://space.bilibili.com/519804427">
+<img src="https://img.shields.io/badge/bilibili-Fourier Intelligence-blue?logo=bilibili" alt="Fourier Intelligence">
+</a>
+<a href="https://weibo.com/u/5864359593">
+<img src="https://img.shields.io/badge/weibo-Fourier Intelligence-red?logo=sina-weibo" alt="Fourier Intelligence">
+</a>
+
 
 ## Repositories 📦
 
