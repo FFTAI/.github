@@ -26,32 +26,17 @@ We welcome developers, researchers, and enthusiasts from around the world to joi
 - **Collaborate**: Contact us if you are interested in research collaborations or joint projects.
 - **Stay Updated**: Follow us on open platforms like GitHub, Gitee, and social media to stay updated on our latest projects and activities.
 
-<a href="https://github.com/FFTAI">
-<img src="https://img.shields.io/badge/github-Fourier Intelligence-black?logo=github" alt="Fourier Intelligence">
-</a>
-<a href="https://www.facebook.com/FourierIntelligence/">
-<img src="https://img.shields.io/badge/facebook-Fourier Intelligence-blue?logo=facebook" alt="Fourier Intelligence">
-</a>
-<a href="https://www.instagram.com/fourierintelligence/">
-<img src="https://img.shields.io/badge/instagram-Fourier Intelligence-blue?logo=instagram&logoColor=white" alt="Fourier Intelligence">
-</a>
-<a href="https://x.com/fourierrobots">
-<img src="https://img.shields.io/badge/twitter-Fourier Intelligence-blue?logo=twitter" alt="Fourier Intelligence">
-</a>
-<a href="https://sg.linkedin.com/company/fourier-intelligence-co.-ltd.">
-<img src="https://img.shields.io/badge/linkedin-Fourier Intelligence-blue?logo=linkedin" alt="Fourier Intelligence">
-</a>
-<a href="https://www.youtube.com/channel/UCAa-HGV-4fLSYZdiuv5Pwcw/videos">
-<img src="https://img.shields.io/badge/youtube-Fourier Intelligence-red?logo=youtube" alt="Fourier Intelligence">
-</a>
+[//]: # (https://github.com/inttter/md-badges)
 
-<a href="https://space.bilibili.com/519804427">
-<img src="https://img.shields.io/badge/bilibili-Fourier Intelligence-blue?logo=bilibili&logoColor=white" alt="Fourier Intelligence">
-</a>
-<a href="https://weibo.com/u/5864359593">
-<img src="https://img.shields.io/badge/weibo-Fourier Intelligence-red?logo=sina-weibo" alt="Fourier Intelligence">
-</a>
-
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff)](https://github.com/FFTAI/)
+[![Gitee](https://img.shields.io/badge/Gitee-C71D23?logo=gitee&logoColor=fff)](https://gitee.com/FourierIntelligence/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=fff)](https://www.facebook.com/FourierIntelligence/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=fff)](https://www.instagram.com/fourierintelligence/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=fff)](https://x.com/fourierrobots)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](https://sg.linkedin.com/company/fourier-intelligence-co.-ltd.)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=fff)](https://www.youtube.com/channel/UCAa-HGV-4fLSYZdiuv5Pwcw/videos)
+[![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?logo=bilibili&logoColor=fff)](https://space.bilibili.com/519804427)
+[![Weibo](https://img.shields.io/badge/Weibo-E6162D?logo=sina-weibo&logoColor=fff)](https://weibo.com/u/5864359593)
 
 ## Repositories 📦
 
