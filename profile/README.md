@@ -52,4 +52,4 @@ We welcome developers, researchers, and enthusiasts from around the world to joi
 
 ---
 
-*Disclaimer: Fourier Intelligence is a trademark of Fourier Intelligence Co., Ltd. All rights reserved.*
+*Disclaimer: Fourier Intelligence is a trademark of [Fourier Intelligence Co., Ltd](https://www.fftai.com). All rights reserved.*
