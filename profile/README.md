@@ -33,7 +33,7 @@ We welcome developers, researchers, and enthusiasts from around the world to joi
 <img src="https://img.shields.io/badge/facebook-Fourier Intelligence-blue?logo=facebook" alt="Fourier Intelligence">
 </a>
 <a href="https://www.instagram.com/fourierintelligence/">
-<img src="https://img.shields.io/badge/instagram-Fourier Intelligence-blue?logo=instagram" alt="Fourier Intelligence">
+<img src="https://img.shields.io/badge/instagram-Fourier Intelligence-blue?logo=instagram&logoColor=white" alt="Fourier Intelligence">
 </a>
 <a href="https://x.com/fourierrobots">
 <img src="https://img.shields.io/badge/twitter-Fourier Intelligence-blue?logo=twitter" alt="Fourier Intelligence">
@@ -46,7 +46,7 @@ We welcome developers, researchers, and enthusiasts from around the world to joi
 </a>
 
 <a href="https://space.bilibili.com/519804427">
-<img src="https://img.shields.io/badge/bilibili-Fourier Intelligence-blue?logo=bilibili" alt="Fourier Intelligence">
+<img src="https://img.shields.io/badge/bilibili-Fourier Intelligence-blue?logo=bilibili&logoColor=white" alt="Fourier Intelligence">
 </a>
 <a href="https://weibo.com/u/5864359593">
 <img src="https://img.shields.io/badge/weibo-Fourier Intelligence-red?logo=sina-weibo" alt="Fourier Intelligence">
