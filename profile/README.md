@@ -1,6 +1,6 @@
 # Fourier Intelligence
 
-Fourier Intelligence, established in 2015, is a universal robot platform enterprise based in Shanghai,
+Fourier Intelligence, established in 2015, is a general robot platform enterprise based in Shanghai,
 focusing on **full-stack robot core technology** and innovative robot products to revolutionize industries.
 
 At Fourier Intelligence, our initial focus has been on revolutionizing **rehabilitation** through advanced robotics and intelligent systems.
