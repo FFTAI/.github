@@ -47,6 +47,7 @@ We welcome developers, researchers, and enthusiasts from around the world to joi
 | [Wiki-GRx-Gym](https://github.com/FFTAI/Wiki-GRx-Gym)           | The code for training walking policy for GRx in Isaac Gym                               | <img src="https://img.shields.io/badge/license-GPL-green" alt="License"> |
 | [Wiki-GRx-Webots](https://github.com/FFTAI/Wiki-GRx-Webots)     | The code for verifying the walking policy in the Webots simulator                       | <img src="https://img.shields.io/badge/license-GPL-green" alt="License"> |
 | [Wiki-GRx-Gazebo](https://github.com/FFTAI/Wiki-GRx-Gazebo)     | The code for verifying the walking policy in the Gazebo simulator                       | <img src="https://img.shields.io/badge/license-GPL-green" alt="License"> |
+| [Wiki-GRx-Mujoco](https://github.com/FFTAI/Wiki-GRx-Mujoco)     | The code for verifying the walking policy in the Mujoco simulator                       | <img src="https://img.shields.io/badge/license-GPL-green" alt="License"> |
 | [Wiki-GRx-Deploy](https://github.com/FFTAI/Wiki-GRx-Deploy)     | The code for deploying the walking policy on the real robot                             | <img src="https://img.shields.io/badge/license-GPL-green" alt="License"> |
 | [fftai.github.io](fftai.github.io)                              | The code for GRx robot high level control, including the User Guide.                    | <img src="https://img.shields.io/badge/license-MIT-red" alt="License">   |
 
