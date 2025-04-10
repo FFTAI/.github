@@ -1,20 +1,20 @@
-# Fourier Intelligence
+# Fourier
 
-Fourier Intelligence, established in 2015, is a general robot platform enterprise based in Shanghai,
+Fourier, established in 2015, is a general robot platform enterprise based in Shanghai,
 focusing on **full-stack robot core technology** and innovative robot products to revolutionize industries.
 
-At Fourier Intelligence, our initial focus has been on revolutionizing **rehabilitation** through advanced robotics and intelligent systems.
+At Fourier, our initial focus has been on revolutionizing **rehabilitation** through advanced robotics and intelligent systems.
 We are dedicated to making high-quality rehabilitation solutions both accessible and affordable,
 aiming to drive advancements in healthcare and improve the quality of life for individuals in need.
 
-Now, Fourier Intelligence is expanding its business to **general robotics**.
+Now, Fourier is expanding its business to **general robotics**.
 After years of research and development, we have accumulated a wealth of experience in the field of robotics.
 We are committed to providing customers with high-quality, cost-effective, and easy-to-use robot products and solutions.
 And hope to work with partners to create a better future for our human society.
 
 ## Open Source 🌟
 
-At Fourier Intelligence, we believe in the power of collaboration and open innovation.
+At Fourier, we believe in the power of collaboration and open innovation.
 We actively contribute to the open-source community and share projects that can help advance the field of robotics.
 Check out our public repositories for software, hardware designs, and research publications that we have made available to the community.
 
@@ -45,10 +45,11 @@ We welcome developers, researchers, and enthusiasts from around the world to joi
 | [Wiki-GRx-Pipeline](https://github.com/FFTAI/Wiki-GRx-Pipeline) | The repository shows how RL can be implemented on Fourier Intelligence GRx series robot | <img src="https://img.shields.io/badge/license-GPL-green" alt="License"> |
 | [Wiki-GRx-Models](https://github.com/FFTAI/Wiki-GRx-Models)     | The repository provides the GRx series robot models in URDF format                      | <img src="https://img.shields.io/badge/license-GPL-green" alt="License"> |
 | [Wiki-GRx-Gym](https://github.com/FFTAI/Wiki-GRx-Gym)           | The code for training walking policy for GRx in Isaac Gym                               | <img src="https://img.shields.io/badge/license-GPL-green" alt="License"> |
-| [Wiki-GRx-Deploy](https://github.com/FFTAI/Wiki-GRx-Deploy)     | The code for deploying the walking policy on the real robot                             | <img src="https://img.shields.io/badge/license-GPL-green" alt="License"> |
 | [Wiki-GRx-Webots](https://github.com/FFTAI/Wiki-GRx-Webots)     | The code for verifying the walking policy in the Webots simulator                       | <img src="https://img.shields.io/badge/license-GPL-green" alt="License"> |
 | [Wiki-GRx-Gazebo](https://github.com/FFTAI/Wiki-GRx-Gazebo)     | The code for verifying the walking policy in the Gazebo simulator                       | <img src="https://img.shields.io/badge/license-GPL-green" alt="License"> |
+| [Wiki-GRx-Deploy](https://github.com/FFTAI/Wiki-GRx-Deploy)     | The code for deploying the walking policy on the real robot                             | <img src="https://img.shields.io/badge/license-GPL-green" alt="License"> |
+| [fftai.github.io](fftai.github.io)                              | The code for GRx robot high level control, including the User Guide.                    | <img src="https://img.shields.io/badge/license-MIT-red" alt="License">   |
 
 ---
 
-*Disclaimer: Fourier Intelligence is a trademark of [Fourier Intelligence Co., Ltd](https://www.fftai.com). All rights reserved.*
+*Disclaimer: Fourier is a trademark of [Fourier Intelligence Co., Ltd](https://www.fftai.com). All rights reserved.*
