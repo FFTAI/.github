@@ -40,16 +40,16 @@ We welcome developers, researchers, and enthusiasts from around the world to joi
 
 ## Repositories 📦
 
-| Title                                                           | Description                                                       | License                                                                      |
-|-----------------------------------------------------------------|-------------------------------------------------------------------|------------------------------------------------------------------------------|
-| [Wiki-GRx-Pipeline](https://github.com/FFTAI/Wiki-GRx-Pipeline) | Shows how RL can be implemented on Fourier GRx series robot       | <img src="https://img.shields.io/badge/license-MIT-red" alt="License">       |
-| [Wiki-GRx-URDF](https://github.com/FFTAI/Wiki-GRx-URDF)         | Provides the GRx series robot models in URDF format               | <img src="https://img.shields.io/badge/license-Apache-yellow" alt="License"> |
-| [Wiki-GRx-MJCF](https://github.com/FFTAI/Wiki-GRx-Models)       | Provides the GRx series robot models in MJCF format               | <img src="https://img.shields.io/badge/license-Apache-yellow" alt="License"> |
-| [Wiki-GRx-Gym](https://github.com/FFTAI/Wiki-GRx-Gym)           | The code for training walking policy for GRx in Isaac Gym         | <img src="https://img.shields.io/badge/license-LGPL-green" alt="License">    |
-| [Wiki-GRx-Deploy](https://github.com/FFTAI/Wiki-GRx-Deploy)     | The code for deploying the walking policy on the real robot       | <img src="https://img.shields.io/badge/license-LGPL-green" alt="License">    |
-| [Wiki-GRx-Mujoco](https://github.com/FFTAI/Wiki-GRx-Mujoco)     | The code for verifying the walking policy in the Mujoco simulator | <img src="https://img.shields.io/badge/license-LGPL-green" alt="License">    |
-| [Wiki-GRx-Webots](https://github.com/FFTAI/Wiki-GRx-Webots)     | The code for verifying the walking policy in the Webots simulator | <img src="https://img.shields.io/badge/license-GPL-green" alt="License">     |
-| [Wiki-GRx-Gazebo](https://github.com/FFTAI/Wiki-GRx-Gazebo)     | The code for verifying the walking policy in the Gazebo simulator | <img src="https://img.shields.io/badge/license-GPL-green" alt="License">     |
+| Title                                                           | Description                                                       | License                                                                      | Star                                                                               |
+|-----------------------------------------------------------------|-------------------------------------------------------------------|------------------------------------------------------------------------------|------------------------------------------------------------------------------------|
+| [Wiki-GRx-Pipeline](https://github.com/FFTAI/Wiki-GRx-Pipeline) | Shows how RL can be implemented on Fourier GRx series robot       | <img src="https://img.shields.io/badge/license-MIT-red" alt="License">       | ![Stars](https://img.shields.io/github/stars/FFTAI/Wiki-GRx-Pipeline?style=social) |
+| [Wiki-GRx-URDF](https://github.com/FFTAI/Wiki-GRx-URDF)         | Provides the GRx series robot models in URDF format               | <img src="https://img.shields.io/badge/license-Apache-yellow" alt="License"> | ![Stars](https://img.shields.io/github/stars/FFTAI/Wiki-GRx-URDF?style=social)     |
+| [Wiki-GRx-MJCF](https://github.com/FFTAI/Wiki-GRx-Models)       | Provides the GRx series robot models in MJCF format               | <img src="https://img.shields.io/badge/license-Apache-yellow" alt="License"> | ![Stars](https://img.shields.io/github/stars/FFTAI/Wiki-GRx-Models?style=social)   |
+| [Wiki-GRx-Gym](https://github.com/FFTAI/Wiki-GRx-Gym)           | The code for training walking policy for GRx in Isaac Gym         | <img src="https://img.shields.io/badge/license-LGPL-green" alt="License">    | ![Stars](https://img.shields.io/github/stars/FFTAI/Wiki-GRx-Gym?style=social)      |
+| [Wiki-GRx-Deploy](https://github.com/FFTAI/Wiki-GRx-Deploy)     | The code for deploying the walking policy on the real robot       | <img src="https://img.shields.io/badge/license-LGPL-green" alt="License">    | ![Stars](https://img.shields.io/github/stars/FFTAI/Wiki-GRx-Deploy?style=social)   |
+| [Wiki-GRx-Mujoco](https://github.com/FFTAI/Wiki-GRx-Mujoco)     | The code for verifying the walking policy in the Mujoco simulator | <img src="https://img.shields.io/badge/license-LGPL-green" alt="License">    | ![Stars](https://img.shields.io/github/stars/FFTAI/Wiki-GRx-Mujoco?style=social)   |
+| [Wiki-GRx-Webots](https://github.com/FFTAI/Wiki-GRx-Webots)     | The code for verifying the walking policy in the Webots simulator | <img src="https://img.shields.io/badge/license-GPL-green" alt="License">     | ![Stars](https://img.shields.io/github/stars/FFTAI/Wiki-GRx-Webots?style=social)   |
+| [Wiki-GRx-Gazebo](https://github.com/FFTAI/Wiki-GRx-Gazebo)     | The code for verifying the walking policy in the Gazebo simulator | <img src="https://img.shields.io/badge/license-GPL-green" alt="License">     | ![Stars](https://img.shields.io/github/stars/FFTAI/Wiki-GRx-Gazebo?style=social)   |
 
 ---
 
