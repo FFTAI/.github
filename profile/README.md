@@ -48,8 +48,13 @@ We welcome developers, researchers, and enthusiasts from around the world to joi
 | [Wiki-GRx-Gym](https://github.com/FFTAI/Wiki-GRx-Gym)           | The code for training walking policy for GRx in Isaac Gym         | <img src="https://img.shields.io/badge/license-LGPL-green" alt="License">    | ![Stars](https://img.shields.io/github/stars/FFTAI/Wiki-GRx-Gym?style=social)      |
 | [Wiki-GRx-Deploy](https://github.com/FFTAI/Wiki-GRx-Deploy)     | The code for deploying the walking policy on the real robot       | <img src="https://img.shields.io/badge/license-LGPL-green" alt="License">    | ![Stars](https://img.shields.io/github/stars/FFTAI/Wiki-GRx-Deploy?style=social)   |
 | [Wiki-GRx-Mujoco](https://github.com/FFTAI/Wiki-GRx-Mujoco)     | The code for verifying the walking policy in the Mujoco simulator | <img src="https://img.shields.io/badge/license-LGPL-green" alt="License">    | ![Stars](https://img.shields.io/github/stars/FFTAI/Wiki-GRx-Mujoco?style=social)   |
-| [Wiki-GRx-Webots](https://github.com/FFTAI/Wiki-GRx-Webots)     | The code for verifying the walking policy in the Webots simulator | <img src="https://img.shields.io/badge/license-GPL-green" alt="License">     | ![Stars](https://img.shields.io/github/stars/FFTAI/Wiki-GRx-Webots?style=social)   |
 | [Wiki-GRx-Gazebo](https://github.com/FFTAI/Wiki-GRx-Gazebo)     | The code for verifying the walking policy in the Gazebo simulator | <img src="https://img.shields.io/badge/license-GPL-green" alt="License">     | ![Stars](https://img.shields.io/github/stars/FFTAI/Wiki-GRx-Gazebo?style=social)   |
+
+## Documents 📚
+
+| Title                                               | Description                      | License                                                                | Star                                                                                               |
+|-----------------------------------------------------|----------------------------------|------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
+| [fourier-grx-N1](https://fourier-grx-n1.github.io/) | The document for `FourierN1` SDK | <img src="https://img.shields.io/badge/license-MIT-red" alt="License"> | ![Stars](https://img.shields.io/github/stars/fourier-grx-N1/fourier-grx-N1.github.io?style=social) |
 
 ---
 
