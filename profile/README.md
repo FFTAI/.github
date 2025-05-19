@@ -52,9 +52,9 @@ We welcome developers, researchers, and enthusiasts from around the world to joi
 
 ## Documents 📚
 
-| Title                                               | Description                      | License                                                                | Star                                                                                               |
-|-----------------------------------------------------|----------------------------------|------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
-| [fourier-grx-N1](https://fourier-grx-n1.github.io/) | The document for `FourierN1` SDK | <img src="https://img.shields.io/badge/license-MIT-red" alt="License"> | ![Stars](https://img.shields.io/github/stars/fourier-grx-N1/fourier-grx-N1.github.io?style=social) |
+| Title                                               | Description                      | Language | License                                                                | Star                                                                                               |
+|-----------------------------------------------------|----------------------------------|----------|------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
+| [fourier-grx-N1](https://fourier-grx-n1.github.io/) | The document for `FourierN1` SDK | Chinese  | <img src="https://img.shields.io/badge/license-MIT-red" alt="License"> | ![Stars](https://img.shields.io/github/stars/fourier-grx-N1/fourier-grx-N1.github.io?style=social) |
 
 ---
 
